@@ -1,0 +1,5 @@
+*.html
+*.tex
+*.json
+.ipynb_checkpoints
+.DS_Store
